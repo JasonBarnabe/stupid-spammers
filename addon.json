@@ -1,0 +1,17 @@
+{
+    "type": "addon",
+    "key": "stupid-spammers",
+    "name": "Stupid Spammers",
+    "description": "Outsmart stupid spammers with an easy question.",
+    "version": "0.1",
+    "mobileFriendly": true,
+    "authors": [
+        {
+            "name": "Jason Barnabe",
+            "email": "jason.barnabe@gmail.com"
+        }
+    ],
+    "require": {
+        "vanilla": ">=2.5"
+    }
+}
